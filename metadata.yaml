@@ -1,0 +1,26 @@
+_repo: Collectors-Items-Fifty-Superb-Recipes-from-Spice-Islands_62345
+_version: 0.0.1
+alternative_title: 'Collectors'' Items: 50 Superb Recipes from Spice Islands'
+creator:
+  author:
+    agent_name: Spice Islands Company
+    alias: Spice Islands (Firm)
+    gutenberg_agent_id: '51893'
+    url: http://www.gutenberg.org/2009/agents/51893
+    wikipedia: https://en.wikipedia.org/wiki/Spice_Islands_(brand)
+description: ''
+gutenberg_issued: '2020-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcc 'TX'
+- !lcsh 'Cooking (Spices)'
+- GITenberg
+title: 'Collectors'' Items: Fifty Superb Recipes from Spice Islands'
+url: http://www.gutenberg.org/ebooks/62345
